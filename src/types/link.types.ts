@@ -5,4 +5,6 @@ export interface Link {
   profileUsername: string;
   title: string;
   url: string;
+  createdAt: string;
+  updatedAt: string;
 }
